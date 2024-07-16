@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Document</title> 
+<link src="styles.css"></link>  
+<head>
+<body>
+<h1>Portfolio</h1>
+  <div class="navbar"> 
+    <p class>Projects</a></p>
+  <p class>Skills</p>
+  <p class>Contacts</p></div>
+  <div class ="imagebox"></div>
+  <section>
+  <h3>Software Engineer</h3> 
+    <img src="img_chania.jpg" alt="boy in a jacket"></img>
